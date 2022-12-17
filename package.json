@@ -1,0 +1,24 @@
+{
+  "name": "distance-finder",
+  "version": "1.0.0",
+  "description": "Distance Finder IOT Tool and Web Application made with Arduino and NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunalpatil22/distance-finder.git"
+  },
+  "keywords": [
+    "iot",
+    "arduino",
+    "nodejs"
+  ],
+  "author": "Kunal Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunalpatil22/distance-finder/issues"
+  },
+  "homepage": "https://github.com/Kunalpatil22/distance-finder#readme"
+}
