@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Kunalpatil22/distance-finder/issues"
   },
-  "homepage": "https://github.com/Kunalpatil22/distance-finder#readme"
+  "homepage": "https://github.com/Kunalpatil22/distance-finder#readme",
+  "dependencies": {
+    "serialport": "^10.5.0"
+  }
 }
