@@ -4,7 +4,8 @@
   "description": "Distance Finder IOT Tool and Web Application made with Arduino and NodeJS.",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "dev": "nodemon ."
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,12 @@
   },
   "homepage": "https://github.com/Kunalpatil22/distance-finder#readme",
   "dependencies": {
-    "serialport": "^10.5.0"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "serialport": "^10.5.0",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
